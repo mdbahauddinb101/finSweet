@@ -94,7 +94,17 @@ margin-bottom: 64px;
  color:#fff;
  line-height: 24px;
 }
+.square{
+    width: 25px;
+    height:5px;
+    background-color: #FFD2A4;
+    margin-top: 10px;
+}
 
+.sqaure-container{
+    display: flex;
+    gap: 15px;
+}
 
 /*---------------- banner ends ----------------------- */
 #sub-headline{
@@ -455,9 +465,7 @@ gap: 24px;
 
 /* ---------great section starts   ---------*/
 
-#great{
-  
-}
+
 
 #great .great-middle{
     display: flex;
