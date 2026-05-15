@@ -780,4 +780,143 @@ visit section ends ---------------------*/
     line-height: 100%;
     color: #161722;
     text-align: left;
-} 
+}
+
+.bottom-3 {
+    background-color: #FFD2A4;
+    max-width: 302px;
+    height: 16px;
+    z-index: -1;
+    margin-top: -16px;
+}
+
+/*--- -------share ends ----------------*/
+
+#footer{
+    min-height: 312px;
+    background-color: #161722;
+    padding: 64px 110px 72px 110px;
+}
+
+.part-container {
+    display: flex;
+    gap: 141px;
+}
+
+.part-1 img{
+    margin-right: 0px;
+}
+
+.part-1 p{
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    color: #FFFFFF;
+    opacity: 78%;
+}
+
+
+.part-1 ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 32px;
+    
+}
+
+.part-1 ul li{
+   color:white;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 100%;
+   text-align: left;
+     opacity: 78%;
+    
+}
+.part-2 {
+    margin-left: 132px;
+}
+.part-2 h6{
+color:white;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 24px;
+   text-align: left;
+   margin-bottom: 20px;
+     opacity: 78%;
+}
+
+.part-2 ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 32px;
+    
+}
+
+.part-2 ul li{
+   color:white;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 100%;
+   text-align: left;
+     opacity: 78%;
+    
+}
+
+.part-3 h5{
+    color:white;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 24px;
+   text-align: left;
+   margin-bottom: 20px;
+     opacity: 78%;
+}
+
+.part-3 img{
+    margin-right: 20px;
+}
+
+.part-4 h2{
+    max-width: 377px;
+    color:white;
+   font-weight: 700;
+   font-size: 32px;
+   line-height: 44px;
+   text-align: left;
+   letter-spacing: -1%;
+   margin-bottom: 32px;
+}
+
+.part-4 .input-container input {
+    max-width: 512px;
+    height: 59px;
+    background-color: rgb(22, 23, 34);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    padding: 20px 333px 20px 20px;
+    color: white;
+      opacity: 78%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    position: absolute;
+}
+.part-4 .input-container button {
+    position: relative;
+    left: 323px;
+}
+.part-4 {
+    margin-left: -102px;
+}
+  
+.part-3 {
+    margin-left: -53px;
+}
+
+
+/*-------------- footer ends------------- */
