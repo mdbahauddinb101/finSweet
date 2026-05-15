@@ -633,6 +633,7 @@ gap: 24px;
       display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 128px;
      
 }
 
@@ -689,3 +690,94 @@ gap: 24px;
     border: none;
   
 }
+/*------------- 
+visit section ends ---------------------*/
+
+#share .share-heading{
+    text-align: center;
+}
+
+#share .share-heading h6{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    color: #161722;
+    margin-bottom: 16px;
+}
+
+#share .share-heading h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: -1%;
+    color: #161722;
+    margin-bottom: 64px;
+}
+
+.sharing-card-container{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 128px;
+}
+
+.sharing-card{
+    width: 302px;
+    height: 367px;
+    background-color: #FFF5EB;
+    padding: 48px 32px;
+}
+
+.sharing-card h6{
+   
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 100%;
+    color: #161722;
+    letter-spacing: 8%;
+    text-align: left;
+    margin-bottom: 16px;
+    background-image: linear-gradient(to right, #A54E2B, #DC9853);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
+
+.sharing-card h3{
+  
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: -1%;
+    color: #161722;
+    margin-bottom: 16px;
+    text-align: left;
+}
+
+.sharing-card p{
+    max-width: 270px;
+    opacity: 78%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #161722;
+    margin-bottom: 32px;
+    text-align: left;
+}
+
+.sharing-card h4{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 100%;
+    color: #161722;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.sharing-card span{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    color: #161722;
+    text-align: left;
+} 
